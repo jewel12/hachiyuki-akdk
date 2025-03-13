@@ -4,14 +4,14 @@
             "keyboard": "hachiyuki",
             "keymap": "vial",
             "target": "uf2",
-            "flags": "EXTRAFLGAS=-DINIT_EE_HANDS_LEFT",
+            "flags": "EXTRAFLAGS=-DINIT_EE_HANDS_LEFT",
             "name": "hachiyuki_vial_left"
         },
         {
             "keyboard": "hachiyuki",
             "keymap": "vial",
             "target": "uf2",
-            "flags": "EXTRAFLGAS=-DINIT_EE_HANDS_RIGHT",
+            "flags": "EXTRAFLAGS=-DINIT_EE_HANDS_RIGHT",
             "name": "hachiyuki_vial_right"
         }
     ]
