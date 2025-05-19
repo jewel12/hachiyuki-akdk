@@ -1238,16 +1238,16 @@
                     "height": 2.125,
                     "row": 1,
                     "col": 0,
-                    "enabled": true,
+                    "enabled": false,
                     "moduleType": "padding",
                     "variant": ""
                 },
                 "padding-02": {
                     "x": 3.375,
-                    "y": 1.875,
+                    "y": 2.625,
                     "a": 0,
                     "width": 7.5,
-                    "height": 3.875,
+                    "height": 5.375,
                     "row": 2,
                     "col": 0,
                     "enabled": true,
@@ -1262,7 +1262,7 @@
                     "height": 3,
                     "row": 3,
                     "col": 0,
-                    "enabled": true,
+                    "enabled": false,
                     "moduleType": "padding",
                     "variant": ""
                 },
@@ -1274,7 +1274,7 @@
                     "height": 0.625,
                     "row": 4,
                     "col": 0,
-                    "enabled": true,
+                    "enabled": false,
                     "moduleType": "padding",
                     "variant": ""
                 },
@@ -1286,7 +1286,7 @@
                     "height": 0.625,
                     "row": 5,
                     "col": 0,
-                    "enabled": true,
+                    "enabled": false,
                     "moduleType": "padding",
                     "variant": ""
                 },
@@ -1298,7 +1298,7 @@
                     "height": 3,
                     "row": 6,
                     "col": 0,
-                    "enabled": true,
+                    "enabled": false,
                     "moduleType": "padding",
                     "variant": ""
                 },
@@ -1310,7 +1310,7 @@
                     "height": 3,
                     "row": 7,
                     "col": 0,
-                    "enabled": true,
+                    "enabled": false,
                     "moduleType": "padding",
                     "variant": ""
                 },
@@ -1322,7 +1322,7 @@
                     "height": 0.375,
                     "row": 8,
                     "col": 0,
-                    "enabled": true,
+                    "enabled": false,
                     "moduleType": "padding",
                     "variant": ""
                 }
@@ -1347,8 +1347,8 @@
                 },
                 "switch-00-01": {
                     "moduleType": "switch",
-                    "x": 1.75,
-                    "y": 1.5,
+                    "x": 3.625,
+                    "y": 1.375,
                     "row": 0,
                     "col": 1,
                     "width": 1,
@@ -1359,8 +1359,8 @@
                 },
                 "switch-00-02": {
                     "moduleType": "switch",
-                    "x": 2.75,
-                    "y": 1.375,
+                    "x": 4.625,
+                    "y": 1.25,
                     "row": 0,
                     "col": 2,
                     "width": 1,
@@ -1371,8 +1371,8 @@
                 },
                 "switch-00-03": {
                     "moduleType": "switch",
-                    "x": 3.75,
-                    "y": 1.25,
+                    "x": 5.625,
+                    "y": 1.125,
                     "row": 0,
                     "col": 3,
                     "width": 1,
@@ -1383,8 +1383,8 @@
                 },
                 "switch-00-04": {
                     "moduleType": "switch",
-                    "x": 4.75,
-                    "y": 1.375,
+                    "x": 6.625,
+                    "y": 1.25,
                     "row": 0,
                     "col": 4,
                     "width": 1,
@@ -1395,8 +1395,8 @@
                 },
                 "switch-00-05": {
                     "moduleType": "switch",
-                    "x": 5.75,
-                    "y": 1.625,
+                    "x": 7.625,
+                    "y": 1.5,
                     "row": 0,
                     "col": 5,
                     "width": 1,
@@ -1407,8 +1407,8 @@
                 },
                 "switch-00-06": {
                     "moduleType": "switch",
-                    "x": 6.75,
-                    "y": 1.625,
+                    "x": 8.625,
+                    "y": 1.5,
                     "row": 0,
                     "col": 6,
                     "width": 1,
@@ -1491,8 +1491,8 @@
                 },
                 "switch-01-00": {
                     "moduleType": "switch",
-                    "x": 0.75,
-                    "y": 2.125,
+                    "x": 2.625,
+                    "y": 2,
                     "row": 1,
                     "col": 0,
                     "width": 1,
@@ -1503,8 +1503,8 @@
                 },
                 "switch-01-01": {
                     "moduleType": "switch",
-                    "x": 1.75,
-                    "y": 2.5,
+                    "x": 3.625,
+                    "y": 2.375,
                     "row": 1,
                     "col": 1,
                     "width": 1,
@@ -1515,8 +1515,8 @@
                 },
                 "switch-01-02": {
                     "moduleType": "switch",
-                    "x": 2.75,
-                    "y": 2.375,
+                    "x": 4.625,
+                    "y": 2.25,
                     "row": 1,
                     "col": 2,
                     "width": 1,
@@ -1527,8 +1527,8 @@
                 },
                 "switch-01-03": {
                     "moduleType": "switch",
-                    "x": 3.75,
-                    "y": 2.25,
+                    "x": 5.625,
+                    "y": 2.125,
                     "row": 1,
                     "col": 3,
                     "width": 1,
@@ -1539,8 +1539,8 @@
                 },
                 "switch-01-04": {
                     "moduleType": "switch",
-                    "x": 4.75,
-                    "y": 2.375,
+                    "x": 6.625,
+                    "y": 2.25,
                     "row": 1,
                     "col": 4,
                     "width": 1,
@@ -1551,8 +1551,8 @@
                 },
                 "switch-01-05": {
                     "moduleType": "switch",
-                    "x": 5.75,
-                    "y": 2.625,
+                    "x": 7.625,
+                    "y": 2.5,
                     "row": 1,
                     "col": 5,
                     "width": 1,
@@ -1563,8 +1563,8 @@
                 },
                 "switch-01-06": {
                     "moduleType": "switch",
-                    "x": 6.75,
-                    "y": 2.625,
+                    "x": 8.625,
+                    "y": 2.5,
                     "row": 1,
                     "col": 6,
                     "width": 1,
@@ -1647,8 +1647,8 @@
                 },
                 "switch-02-00": {
                     "moduleType": "switch",
-                    "x": 0.75,
-                    "y": 3.125,
+                    "x": 2.625,
+                    "y": 3,
                     "row": 2,
                     "col": 0,
                     "width": 1,
@@ -1659,8 +1659,8 @@
                 },
                 "switch-02-01": {
                     "moduleType": "switch",
-                    "x": 1.75,
-                    "y": 3.5,
+                    "x": 3.625,
+                    "y": 3.375,
                     "row": 2,
                     "col": 1,
                     "width": 1,
@@ -1671,8 +1671,8 @@
                 },
                 "switch-02-02": {
                     "moduleType": "switch",
-                    "x": 2.75,
-                    "y": 3.375,
+                    "x": 4.625,
+                    "y": 3.25,
                     "row": 2,
                     "col": 2,
                     "width": 1,
@@ -1683,8 +1683,8 @@
                 },
                 "switch-02-03": {
                     "moduleType": "switch",
-                    "x": 3.75,
-                    "y": 3.25,
+                    "x": 5.625,
+                    "y": 3.125,
                     "row": 2,
                     "col": 3,
                     "width": 1,
@@ -1695,8 +1695,8 @@
                 },
                 "switch-02-04": {
                     "moduleType": "switch",
-                    "x": 4.75,
-                    "y": 3.375,
+                    "x": 6.625,
+                    "y": 3.25,
                     "row": 2,
                     "col": 4,
                     "width": 1,
@@ -1707,8 +1707,8 @@
                 },
                 "switch-02-05": {
                     "moduleType": "switch",
-                    "x": 5.75,
-                    "y": 3.625,
+                    "x": 7.625,
+                    "y": 3.5,
                     "row": 2,
                     "col": 5,
                     "width": 1,
@@ -1719,8 +1719,8 @@
                 },
                 "switch-02-06": {
                     "moduleType": "switch",
-                    "x": 6.75,
-                    "y": 3.625,
+                    "x": 8.625,
+                    "y": 3.5,
                     "row": 2,
                     "col": 6,
                     "width": 1,
@@ -1803,8 +1803,8 @@
                 },
                 "switch-03-00": {
                     "moduleType": "switch",
-                    "x": 1,
-                    "y": 4.625,
+                    "x": 2.875,
+                    "y": 4.5,
                     "row": 3,
                     "col": 0,
                     "width": 1,
@@ -1815,8 +1815,8 @@
                 },
                 "switch-03-01": {
                     "moduleType": "switch",
-                    "x": 2,
-                    "y": 4.5,
+                    "x": 3.875,
+                    "y": 4.375,
                     "row": 3,
                     "col": 1,
                     "width": 1,
@@ -1827,8 +1827,8 @@
                 },
                 "switch-03-02": {
                     "moduleType": "switch",
-                    "x": 3,
-                    "y": 4.5,
+                    "x": 4.875,
+                    "y": 4.375,
                     "row": 3,
                     "col": 2,
                     "width": 1,
@@ -1875,8 +1875,8 @@
                 },
                 "switch-03-06": {
                     "moduleType": "switch",
-                    "x": 6.75,
-                    "y": 4.625,
+                    "x": 8.625,
+                    "y": 4.5,
                     "row": 3,
                     "col": 6,
                     "width": 1,
@@ -2270,8 +2270,8 @@
                     "variant": "default"
                 },
                 "controller": {
-                    "x": 5.75,
-                    "y": 1.125,
+                    "x": 7.625,
+                    "y": 1,
                     "a": 0,
                     "width": 2,
                     "height": 1,
@@ -2293,15 +2293,16 @@
                     "moduleType": "encoder"
                 },
                 "trackball": {
-                    "x": 0.75,
-                    "y": 0.25,
-                    "a": 0,
+                    "x": 1,
+                    "y": 5.625,
+                    "a": -90,
                     "width": 2,
                     "height": 2,
                     "row": 6,
                     "col": 2,
-                    "enabled": false,
-                    "moduleType": "trackball"
+                    "enabled": true,
+                    "moduleType": "trackball",
+                    "variant": "thumb-34"
                 },
                 "switch-06-00": {
                     "x": 0.75,
@@ -2353,8 +2354,8 @@
                 },
                 "padding-00": {
                     "moduleType": "padding",
-                    "x": 3.375,
-                    "y": 2.625,
+                    "x": 5.25,
+                    "y": 2.5,
                     "row": 0,
                     "col": 0,
                     "width": 6.25,
@@ -2365,27 +2366,27 @@
                 },
                 "padding-01": {
                     "moduleType": "padding",
-                    "x": 0.4249999999999998,
-                    "y": 4.75,
+                    "x": 5.625,
+                    "y": 2.625,
                     "row": 1,
                     "col": 0,
-                    "width": 0.875,
-                    "height": 2.125,
+                    "width": 7.5,
+                    "height": 5.375,
                     "a": 0,
                     "variant": "",
                     "enabled": true
                 },
                 "padding-02": {
                     "moduleType": "padding",
-                    "x": 3.5,
-                    "y": 2,
+                    "x": 4,
+                    "y": 1.875,
                     "row": 2,
                     "col": 0,
                     "width": 6.875,
                     "height": 3.875,
                     "a": 0,
                     "variant": "",
-                    "enabled": true
+                    "enabled": false
                 },
                 "padding-03": {
                     "moduleType": "padding",
@@ -2397,7 +2398,7 @@
                     "height": 3,
                     "a": 0,
                     "variant": "",
-                    "enabled": true
+                    "enabled": false
                 },
                 "padding-04": {
                     "moduleType": "padding",
@@ -2421,7 +2422,7 @@
                     "height": 0.5,
                     "a": -45,
                     "variant": "",
-                    "enabled": true
+                    "enabled": false
                 },
                 "padding-06": {
                     "moduleType": "padding",
@@ -2433,7 +2434,7 @@
                     "height": 0.375,
                     "a": -50,
                     "variant": "",
-                    "enabled": true
+                    "enabled": false
                 },
                 "padding-07": {
                     "moduleType": "padding",
@@ -2445,7 +2446,7 @@
                     "height": 3,
                     "a": 0,
                     "variant": "",
-                    "enabled": true
+                    "enabled": false
                 },
                 "padding-08": {
                     "x": 0.625,
@@ -2455,7 +2456,7 @@
                     "height": 0.5,
                     "row": 8,
                     "col": 0,
-                    "enabled": true,
+                    "enabled": false,
                     "moduleType": "padding",
                     "variant": ""
                 }
@@ -2473,12 +2474,15 @@
         "batteryHeight": 6.2,
         "partsHeight": 2.5,
         "usbHeight": 3.5,
-        "bottomMinThickness": 7.4,
-        "tiltingAngle": 5.9,
-        "tentingAngle": 6,
-        "topRim": 2.6,
+        "bottomMinThickness": 3,
+        "tiltingAngle": 4.2,
+        "tentingAngle": 0,
+        "topRim": 2.5,
         "bottomRim": 3,
-        "switchEmbankment": 0,
-        "snapDirection": "vertical"
+        "chamferHeight": 2,
+        "chamferAngle": 30,
+        "switchEmbankment": 0.7,
+        "snapDirection": "horizontal",
+        "mountType": "integrated"
     }
 }
