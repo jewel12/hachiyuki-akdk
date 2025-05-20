@@ -19,6 +19,7 @@
 
 #include "pointing_device.h"
 
+#include "keymaps/vial/config.h" // For TRACKBALL_ROTATION_ANGLE
 #include "debug.h"
 #include "gpio.h"
 #include "paw3222.h"
@@ -174,8 +175,22 @@ report_mouse_t paw3222_get_report(report_mouse_t mouse_report) {
   if (data.isMotion) {
     pd_dprintf("Raw ] X: %d, Y: %d\n", data.x, data.y);
 
+#if defined(TRACKBALL_ROTATION_ANGLE) && TRACKBALL_ROTATION_ANGLE == 90
+    // 90 degrees clockwise rotation: X becomes -Y, Y becomes X
+    mouse_report.x = -data.y;
+    mouse_report.y = data.x;
+#elif defined(TRACKBALL_ROTATION_ANGLE) && TRACKBALL_ROTATION_ANGLE == 180
+    // 180 degrees clockwise rotation: X becomes -X, Y becomes -Y
+    mouse_report.x = -data.x;
+    mouse_report.y = -data.y;
+#elif defined(TRACKBALL_ROTATION_ANGLE) && TRACKBALL_ROTATION_ANGLE == 270
+    // 270 degrees clockwise rotation: X becomes Y, Y becomes -X
+    mouse_report.x = data.y;
+    mouse_report.y = -data.x;
+#else // Default to no rotation (0 degrees or undefined)
     mouse_report.x = data.x;
     mouse_report.y = data.y;
+#endif
   }
 
   return mouse_report;

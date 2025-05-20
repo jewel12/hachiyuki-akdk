@@ -8,3 +8,14 @@
 #define POINTING_DEVICE_RIGHT
 #define POINTING_DEVICE_INVERT_X
 #define POINTING_DEVICE_INVERT_Y
+
+/*
+ * Trackball Rotation Angle
+ * Defines the clockwise rotation angle for the trackball sensor data.
+ * Possible values:
+ *   0: No rotation (default behavior)
+ *   90: 90 degrees clockwise rotation (X becomes -Y, Y becomes X)
+ *   180: 180 degrees clockwise rotation (X becomes -X, Y becomes -Y)
+ *   270: 270 degrees clockwise rotation (X becomes Y, Y becomes -X)
+ */
+#define TRACKBALL_ROTATION_ANGLE 90
